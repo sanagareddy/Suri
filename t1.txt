@@ -1,1 +1,2 @@
 Testing commit trigger
+Added var to jenkins
